@@ -10,3 +10,5 @@
 * [Deep Learning of Binary Hash Codes for Fast Image Retrieval](https://github.com/kevinlin311tw/caffe-cvprw15)
 * 
 
+## Compressing CNN model
+* [Compressing Convolutional Neural Networks](http://arxiv.org/pdf/1506.04449v1.pdf)
