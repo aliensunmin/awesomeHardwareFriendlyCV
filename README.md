@@ -5,3 +5,8 @@
   Convolutional Neural Networks (CNN) comppletely using SRAM.
 
 * [A 240 G-ops/s Mobile Coprocessor for Deep Neural Networks. Vinayak Gokhale, Jonghoon Jin, Aysegul Dundar, Berin Martini, Eugenio Culurciello; CVPRW'2015](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W17/html/Gokhale_A_240_G-opss_2014_CVPR_paper.html)
+* 
+## binary hashcode
+* [Deep Learning of Binary Hash Codes for Fast Image Retrieval](https://github.com/kevinlin311tw/caffe-cvprw15)
+* 
+
